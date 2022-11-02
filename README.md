@@ -6,3 +6,6 @@ A system that create and keep tracks of employee and interns. \
 
 ## Repo link
 https://osheathe1.github.io/Team_Profile_Generator/
+
+## video link
+https://drive.google.com/file/d/13sTNQ6kPVC95kAYyHzTOxmBU6V9YMMFl/view?usp=sharing
